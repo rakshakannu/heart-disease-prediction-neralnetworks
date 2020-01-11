@@ -1,2 +1,2 @@
-# heart-disease-prediction-neralnetworks
+# heart-disease-prediction-neuralnetworks
 This prediction uses normalised data set.
